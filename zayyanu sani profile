@@ -1,0 +1,45 @@
+zayyanu sani profile
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zayyanu Sani's Profile</title>
+</head>
+<body>
+    <header>
+        <h1>Zayyanu Sani</h1>
+        <nav>
+            <ul>
+                <li>About Me</li>
+                <li>Hobbies</li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <img src="profile-placeholder.jpg" alt="Zayyanu Sani's profile picture" width="150">
+        <p>Hello! My name is Zayyanu Sani. I am from Birnin Tsaba, Zurmi Local Government Area of Zamfara State. I'm passionate about technology and community development.</p>
+    </section>
+
+    <section>
+        <h2>My Hobbies</h2>
+        <ul>
+            <li>Learning new technologies</li>
+            <li>Community engagement</li>
+            <li>Watching educational TV programs</li>
+            <li>Networking with professionals</li>
+        </ul>
+    </section>
+
+    <footer>
+        <h3>Contact Me</h3>
+        <p>Email: zayyanusanitv@gmail.com</p>
+        <p>Twitter: @zayyanusanibt</p>
+        <p>Location: Birnin Tsaba, Zurmi LGA, Zamfara State</p>
+    </footer>
+</body>
+</html>
+￼Enter
